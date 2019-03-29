@@ -13,7 +13,7 @@ package ru.avalon.java.dev.j10.labs.shapes;
 public interface Point {
 
     /*
-     * TODO: Закончить определение интерфейса 'Point'
+     * Закончить определение интерфейса 'Point'
      *
      * 1. Включите интерфейс в общую систему типов.
      *
